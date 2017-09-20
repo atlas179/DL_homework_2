@@ -1,4 +1,4 @@
-((^| |<)\b(?!OF184)(o|O)(.[a-zA-Z0-9._%+-]*?)@(.[a-zA-Z0-9._%+-]*?)(com|org)
+(^| |<)\b(?!OF184)(o|O)(.[a-zA-Z0-9._%+-]*?)@(.[a-zA-Z0-9._%+-]*?)(com|org)
 31
 Line 5390: To: outlook.team@enron.com
 	Line 10713: To: outlook.team@enron.com
